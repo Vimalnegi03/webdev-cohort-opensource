@@ -9,26 +9,26 @@ Click on the **Fork** button in the top right corner of this repository to creat
 
 ### **2️⃣ Clone & Create a New Branch**  
 Clone your forked repository and create a new branch:  
-```sh
+```
 git clone https://github.com/piyushgarg-dev/webdev-cohort-opensource.git
 cd repository-name
 git checkout -b your-branch-name
-```sh
+```
 
 ### **3️⃣ Fork the Repository** 
 Edit the code, fix bugs, add new features, or improve documentation.
 
 ### **4️⃣ Commit Your Changes**
-```sh
+```
 git add .
 git commit -m "Your meaningful commit message"
-```sh
+```
 
 ### **5️⃣ Push to Your Forked Repository**
 Push your changes to your fork:
-```sh
+```
 git push origin your-branch-name
-```sh
+```
 
 ### **6️⃣ Create a Pull Request (PR)**
 - Go to the original repository on GitHub.
@@ -42,6 +42,6 @@ git push origin your-branch-name
 
 ### **8️⃣ Delete Your Forked Repo (Optional)**
 - Once your PR is merged, you can delete your fork to keep your GitHub clean:
-```sh
+```
 git remote remove origin
 ```
